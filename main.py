@@ -27,7 +27,7 @@ def main():
     contract_impl(struct_name)
     assemble()
 
-    clear()
+#     clear()
 
 
 main()
